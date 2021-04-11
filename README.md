@@ -1,3 +1,6 @@
+# ALERT
+If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtanRy
+
 # best-krunker.io-hacks
 Hack/Exploits for https://krunker.io/
 
