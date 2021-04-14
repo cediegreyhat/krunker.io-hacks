@@ -3,6 +3,9 @@ Contributors are welcome to add or fix anything in this project, you can dm me a
 
 If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtanRy
 
+# Script Version
+Version 0.0.1 fixed aimbot (still in development)
+
 # best-krunker.io-hacks
 Hack/Exploits for https://krunker.io/
 
