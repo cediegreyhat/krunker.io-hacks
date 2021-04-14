@@ -19,6 +19,7 @@ If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtan
 - FOV box
 - FOV box size
 - ESP
+- Auto Bhop
 - **AND THERES MUCH MORE TRUST ME!!**
 
 ## KeyBinds:
