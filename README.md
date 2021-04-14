@@ -26,11 +26,4 @@ If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtan
 - Y to active aimbot in game
 - H to activate ESP. **(Special if you press H 3 times each there's different ESPs test for your self!)**
 
-# Script Version
-Version 0.0.1 fixed aimbot (still in development)
-
-Version 0.0.2 fixed ESP and auto bhop
-
-Version 0.0.3 added some cool css.
-
 **ADDING MORE STUFF TO THIS SO STAY TUNED!!**
