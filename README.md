@@ -5,6 +5,8 @@ If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtan
 
 # Script Version
 Version 0.0.1 fixed aimbot (still in development)
+Version 0.0.2 fixed ESP and auto bhop
+Version 0.0.3 added some cool css.
 
 # best-krunker.io-hacks
 Hack/Exploits for https://krunker.io/
