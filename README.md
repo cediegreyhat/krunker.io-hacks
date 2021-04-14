@@ -1,3 +1,6 @@
+# best-krunker.io-hacks
+Hack/Exploits for https://krunker.io/
+
 # ALERT
 Contributors are welcome to add or fix anything in this project, you can dm me at [twitter](https://twitter.com/glizuwu)
 
@@ -9,9 +12,6 @@ Version 0.0.1 fixed aimbot (still in development)
 Version 0.0.2 fixed ESP and auto bhop
 
 Version 0.0.3 added some cool css.
-
-# best-krunker.io-hacks
-Hack/Exploits for https://krunker.io/
 
 ### Requirements:
 - Tampermonkey (chrome extension) to download [CLICK HERE](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
