@@ -1,6 +1,4 @@
 # ALERT
-Contributors are welcome to add or fix anything in this project, you can dm me at [twitter](https://twitter.com/glizuwu)
-
 If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtanRy
 
 ### Requirements:
