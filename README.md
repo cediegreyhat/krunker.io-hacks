@@ -24,6 +24,6 @@ If you're experiencing any bugs please report at --> https://discord.gg/tQ4HBtan
 
 ## KeyBinds:
 - Y to active aimbot in game
-- H to activate ESP. **(Special if you press H 3 times each there's different ESPs test for your self!)**
+- H to activate ESP. **(if you press H 3 different times there's different ESPs test for your self!)**
 
 **ADDING MORE STUFF TO THIS SO STAY TUNED!!**
