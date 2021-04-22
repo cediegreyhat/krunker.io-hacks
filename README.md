@@ -1,6 +1,3 @@
-# Credit
-SkidLamer https://github.com/skidlamer
-
 # ALERT
 If you're experiencing any bugs please report at --> https://discord.gg/AFdMY9N7kS
 
