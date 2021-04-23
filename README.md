@@ -1,5 +1,5 @@
 # ALERT
-If you're experiencing any bugs please report at --> https://discord.gg/AFdMY9N7kS
+If you're experiencing any bugs please report at --> https://discord.gg/bGRN82QQYM
 
 ### Requirements:
 - Tampermonkey (chrome extension) to download [CLICK HERE](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
